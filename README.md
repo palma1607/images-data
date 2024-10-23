@@ -1,2 +1,2 @@
 # images-data
-Repositório para os datasets para a UC de Inteligência Artificial
+Repositório dos datasets para a UC de Inteligência Artificial
